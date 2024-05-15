@@ -24,7 +24,7 @@ Watch the gameplay video [here](https://www.aparat.com/v/uxKeU).
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/ninja-game.git
+    git clone https://github.com/zahramokhtari/ninja-game.git
     cd ninja-game
     ```
 
